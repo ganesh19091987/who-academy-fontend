@@ -1,0 +1,77 @@
+body{
+	margin: 0 !important;
+	background-color:#fafafa !important;
+	font-size: 1.1rem !important;
+	font-family: arial, sans-serif !important;
+}
+
+.main_container{
+	margin-top: 16px;
+	margin-bottom: 16px;
+	padding: 16px;
+	box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)
+}
+.add_todo{
+	margin-top: 16px !important;
+}
+.links{
+	text-decoration: none !important;
+	color:#fff !important;
+}
+.nav-bg-color{
+	background-color: #7f7f7f !important;
+	color:#fafafa !important;
+}
+
+.todo .title{
+	color: #7f7f7f;
+	font-size: 1.2rem;
+	font-weight: 500;
+	
+}
+.todo .edit-icons{
+	cursor: pointer;
+}
+.addtodo{
+	color: #7f7f7f;
+	font-size: 1.2rem;
+	font-weight: 600;
+	cursor: pointer !important;
+}
+
+.container{
+  min-height: 788px;
+}
+.footer {
+	background-color: #fff
+}
+
+.footer .copyright {
+	padding: 1.5rem;
+	background: #fff
+}
+
+.footer .copyright p {
+	text-align: center;
+	margin: 0;
+	color: #898989
+}
+
+.footer .copyright a {
+	color: #3A7CB5
+}
+
+.spinner {
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	width: 100vw;
+	background-color: white;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  }
+
+  

@@ -1,0 +1,18 @@
+Backend:
+- Create Mongo db schema
+- Create Folder Schema and Structure
+- Create Mongoose schema
+- Create Route for apis
+- Create Services api for CRUD operation for Courses,Students and Authors 
+- Create Response Json Format
+
+
+FrontEnd:
+
+- Create Folder Schema and File Structure
+
+- Implementing UI and Functionality for Student Create & List
+
+- Implementing UI and Functionality for Author Create & List
+
+- Implementing UI and Functionality for Course Create & List
